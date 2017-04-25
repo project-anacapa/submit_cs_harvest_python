@@ -1,9 +1,5 @@
 # submit_cs_harvest_python
-Scripts to harvest data from submit_cs using Python
-
-# submit_cs_harvest
-
-Scripts to get data out of legacy submit.cs into the form needed for project anacapa
+Scripts to harvest data out of legacy submit_cs into the form needed for project anacapa, using Python
 
 
 # Background info
