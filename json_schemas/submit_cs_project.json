@@ -3,7 +3,9 @@
     "title":"submit-cs-project",
     "type":"object",
     "properties" : {
-	"id": {"type":"number"} 
+	"id": {"type":"number"},
+	"testables": {"type":"object"},
+	"name": {"type" : "string"}
     },
-    "required" : ["id"]   
+    "required" : ["id","testables","name"]   
 }
